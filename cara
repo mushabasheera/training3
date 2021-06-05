@@ -1,0 +1,8 @@
+Cara upload file ke github:
+
+
+36  vim text.txt
+37  git add text.txt
+38  git commit -m "bikin file txt baru"
+39  git push origin master
+
